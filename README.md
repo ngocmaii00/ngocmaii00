@@ -9,49 +9,16 @@
   />
 </p>
 
-
-<h2>💻 Tech Stack </h2>
-
-<table>
-  <tr>
-    <th align="center">Frontend</th>
-    <th align="center">Backend & Database</th>
-    <th align="center">Tools & Others</th>
-  </tr>
-  <tr>
-    <td valign="top">      
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-
-
 <h2>🔥 GitHub Stats</h2> 
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngocmaii00&show_icons=true&theme=radical&hide_border=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocmaii00&layout=compact&theme=radical&hide_border=true" height="200" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngocmaii00&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff75c3&icon_color=ff75c3&text_color=ffffff&bg_color=0d1117" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocmaii00&layout=compact&theme=tokyonight&hide_border=true&title_color=ff75c3&text_color=ffffff&bg_color=0d1117" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ngocmaii00&theme=tokyonight&hide_border=true&background=0D1117&ring=ff75c3&fire=ff75c3&currStreakLabel=ff75c3" width="94%" />
 </div>
 
-<h2>🔗 Connect With Me </h2>
+
+<h2>💻 Connect With Me </h2>
 
 <p align="center">
   <a href="mailto:ngmai23.work@gmail.com" title="Send Email">
