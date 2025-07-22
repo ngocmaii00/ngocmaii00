@@ -14,7 +14,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ngocmaii00&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff75c3&icon_color=ff75c3&text_color=ffffff&bg_color=0d1117" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocmaii00&layout=compact&theme=tokyonight&hide_border=true&title_color=ff75c3&text_color=ffffff&bg_color=0d1117" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ngocmaii00&theme=tokyonight&hide_border=true&background=0D1117&ring=ff75c3&fire=ff75c3&currStreakLabel=ff75c3" width="94%" />
 </div>
 
 
