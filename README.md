@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to my Github ✨</h1>
+<h3 align="center">✨ Welcome to my Github ✨</h3>
 
 <p align="center">
   <img 
@@ -8,16 +8,6 @@
     height="100"
   />
 </p>
-
-<h2>🔥 GitHub Stats</h2> 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngocmaii00&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff75c3&icon_color=ff75c3&text_color=ffffff&bg_color=0d1117" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocmaii00&layout=compact&theme=tokyonight&hide_border=true&title_color=ff75c3&text_color=ffffff&bg_color=0d1117" width="47%" />
-</div>
-
-
-<h2>💻 Connect With Me </h2>
 
 <p align="center">
   <a href="mailto:ngmai23.work@gmail.com" title="Send Email">
