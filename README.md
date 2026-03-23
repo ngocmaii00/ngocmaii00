@@ -9,6 +9,13 @@
   />
 </p>
 
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,tailwindcss&theme=dark" /> 
+</p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ngocmaii00&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocmaii00&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=0d1117" height="160"/> </p>
+
+
 <p align="center">
   <a href="mailto:ngmai23.work@gmail.com" title="Send Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
