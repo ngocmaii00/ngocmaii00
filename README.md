@@ -10,10 +10,21 @@
 </p>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,tailwindcss&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql&theme=dark" /> 
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ngocmaii00&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocmaii00&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=0d1117" height="160"/> </p>
+
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocmaii00&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=0d1117" height="160"/> 
+</p>
 
 
 <p align="center">
