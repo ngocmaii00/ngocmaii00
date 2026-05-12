@@ -1,4 +1,8 @@
-<h3 align="center">✨ Welcome to my Github ✨</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,FF69B4,8A2BE2,00BFFF&height=250&section=header&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<br/>
 
 <p align="center">
   <img 
@@ -9,23 +13,32 @@
   />
 </p>
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql&theme=dark" /> 
-</p>
+
+### 🌌 MY SKILL CONSTELLATION 🌌
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge" />
+  <i>"Do what you want"</i>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,java,supabase,azure,mongodb,tailwind,figma,docker,git&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real_time_BLE-FF69B4?style=flat-square&logo=bluetooth&logoColor=white" />
 </p>
 
 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocmaii00&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=0d1117" height="160"/> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocmaii00&theme=radical&hide_border=true&background=0d1117&ring=FF69B4&fire=FF69B4" width="85%" />
 </p>
 
+<p>______________________________________________________________________</p>
+
+### 📫 TELEPORT TO MY WORLD 📫
 
 <p align="center">
   <a href="mailto:ngmai23.work@gmail.com" title="Send Email">
@@ -41,3 +54,8 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ngocmaii00&label=PROFILE%20VIEWS&color=FF69B4&style=flat-square" />
+</p>
+
+</div>
